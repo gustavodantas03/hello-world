@@ -1,3 +1,5 @@
 # hello-world
 Primeiro repositório 
-Me chamo Gustavo Dantas, tenho 27 anos e estou iniciandoo a graduação em Análise e Desen.de Sistemas
+Me chamo GustavoDantas
+tenho 27 anos e,
+graduando em Analise e  desenvolvimento de sistemas
